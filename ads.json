@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-13T12:00:00Z",
+  "items": [
+    {
+      "id": "1",
+      "title": "Довталаб 2026",
+      "description": "📘 Довталаб 2026 — современное и удобное приложение для подготовки школьников 9–11 классов к централизованному тестированию (ЦТ) в Таджикистане.",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/banner_ads/dovtalab2026.png",
+      "url": "https://play.google.com/store/apps/details?id=com.neuronit.dovtalab2026",
+      "status": 1,
+      "startDate": "2026-07-13",
+      "endDate": "2026-08-13"
+    },
+    {
+      "id": "2",
+      "title": "Китоби ШОҲНОМА",
+      "description": "Шоҳнома-и безаволи Фирдавсӣ (935 - 1020) яке аз шоҳкориҳои адабиёти тоҷик аст. ",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/banner_ads/shohnoma.png",
+      "url": "https://play.google.com/store/apps/details?id=com.neuronit.shohnoma",
+      "status": 1,
+      "startDate": "2026-07-13",
+      "endDate": "2026-09-01"
+    },
+    {
+      "id": "3",
+      "title": "Заказать рекламу",
+      "description": "Место для вашей рекламы - НАЖМИТЕ на кнопку ПЕРЕЙТИ и запоните анкету",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/banner_ads/ad.png",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdTyBl1NnsbpuswzoGfl5qz6j_WI5ezVIHkf646kZZq-91kPw/viewform",
+      "status": 1,
+      "startDate": "2026-07-13",
+      "endDate": "2026-09-01"
+    }
+  ]
+}
