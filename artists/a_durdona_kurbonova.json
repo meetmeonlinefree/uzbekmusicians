@@ -2,7 +2,7 @@
   "id": "a_durdona_kurbonova",
   "name": "Durdona Kurbonova",
   "image_url": "https://i.ytimg.com/vi/o5Hhez4dSPQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD_9-avLAvhzd8NIamq__4xWfDNsg",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/umvideo/refs/heads/main/video/Mirjalol_Nematov_Durdona_Kurbonova_Dilbar.mp4",
       "publishedAt": "2026-08-05",
       "durationSec": 177
+    },
+    {
+      "id": "2",
+      "artistId": "a_durdona_kurbonova",
+      "title": "Durdona Kurbonova - Muhabbat",
+      "description": "Durdona Kurbonova - Muhabbat",
+      "image_url": "https://i.ytimg.com/vi/y6ErzZRMQ-I/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAq-9Gyy9QPPJy9qUG31hudDz1INg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/umvideo/refs/heads/main/video/Durdona_Kurbonova_Muhabbat.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 205
     }
   ]
 }
