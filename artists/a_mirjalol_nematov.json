@@ -2,6 +2,17 @@
   "id": "a_mirjalol_nematov",
   "name": "Mirjalol Nematov",
   "image_url": "https://yt3.googleusercontent.com/7bQYDCF41-kYNLmv8A2PT_XVuz90zzqgBYNxWdow1tuC2HR0B4JJCh0-pyScxSUvpp9r1O2T=s72-c-k-c0x00ffffff-no-rj",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_mirjalol_nematov",
+      "title": "Mirjalol Nematov - Dilbar",
+      "description": "Mirjalol Nematov - Dilbar",
+      "image_url": "https://i.ytimg.com/vi/lVRCeER1qMA/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciBdKEAwDw==&rs=AOn4CLCqPNA5jhKyP1eq22oubhQjJRRrGw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/umvideo/refs/heads/main/video/Mirjalol_Nematov_Dilbar.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 177
+    }
+  ]
 }
