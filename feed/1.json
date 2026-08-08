@@ -1,7 +1,16 @@
 {
   "page": 1,
-  "count": 6,
+  "count": 7,
   "items": [
+    {
+      "id": "7",
+      "title": "Xamdam Sobirov - Malohat",
+      "description": "Xamdam Sobirov - Malohat",
+      "image_url": "https://i.ytimg.com/vi/JPYXpBS1dv4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDmbCQjHClYmj5EXyBb6jln3NClZQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/umvideo/refs/heads/main/video/Xamdam_Sobirov_Malohat.mp4",
+      "publishedAt": "2026-08-08",
+      "durationSec": 278
+    },
     {
       "id": "6",
       "title": "Mirjalol Nematov - Galsin",
