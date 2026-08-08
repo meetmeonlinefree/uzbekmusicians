@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-08T04:52:16.924Z",
+  "updatedAt": "2026-08-08T05:03:54.224Z",
   "artists": [
     {
       "id": "a_mirjalol_nematov",
@@ -16,6 +16,11 @@
       "id": "a_ozoda",
       "name": "Ozoda",
       "image_url": "https://yt3.ggpht.com/QVtzpdILmP2YOC0WOQV9rxbbYZBZaEfJTVevx3vyI_mQggzTnZiFWXd3nuFc2BQD48H_EyiCYw=s48-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "a_xamdam_sobirov",
+      "name": "Xamdam Sobirov",
+      "image_url": "https://yt3.googleusercontent.com/q0Rv3PgEUNWxjdE-5YLJoA1mLex1gSufWjifP2OLro0AHWUGGVOJN0XSPrYXWtKGsGoH6V0Rjw=s176-c-k-c0x00ffffff-no-rj-mo"
     }
   ]
 }
