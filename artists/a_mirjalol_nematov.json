@@ -2,7 +2,7 @@
   "id": "a_mirjalol_nematov",
   "name": "Mirjalol Nematov",
   "image_url": "https://yt3.googleusercontent.com/7bQYDCF41-kYNLmv8A2PT_XVuz90zzqgBYNxWdow1tuC2HR0B4JJCh0-pyScxSUvpp9r1O2T=s72-c-k-c0x00ffffff-no-rj",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/umvideo/refs/heads/main/video/Mirjalol_Nematov_Dilbar.mp4",
       "publishedAt": "2026-08-05",
       "durationSec": 177
+    },
+    {
+      "id": "2",
+      "artistId": "a_mirjalol_nematov",
+      "title": "Mirjalol Nematov - Durdona Qurbonova - Galsin",
+      "description": "Mirjalol Nematov - Durdona Qurbonova - Galsin",
+      "image_url": "https://i.ytimg.com/vi/UKxpCaAEM-4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA7gYt3CizF7BeLYIc_7ZtTcp7iBA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/umvideo/refs/heads/main/video/Mirjalol_Nematov_Durdona_Qurbonova_Galsin.mp4",
+      "publishedAt": "2026-08-08",
+      "durationSec": 199
     }
   ]
 }
